@@ -1,0 +1,22 @@
+# WinRelay Icon Placeholder
+
+This file serves as a placeholder for the application icon.
+
+For a production build, you would need to:
+1. Create or obtain a proper .ico file (32x32, 16x16 versions recommended)
+2. Place it in the Resources folder as "icon.ico"
+3. The application will automatically use it
+
+The application will fall back to using the system default application icon if no custom icon is found.
+
+Recommended icon specifications:
+- Format: .ICO file
+- Sizes: 16x16, 32x32, 48x48, 256x256 pixels
+- Color depth: 32-bit (with alpha channel for transparency)
+- Style: Simple, recognizable symbol related to window management
+
+Icon design ideas:
+- Overlapping rectangles representing windows
+- Grid pattern for layout management
+- Center-focused design for centering functionality
+- Modern, minimalist style to match Windows 11 design language
